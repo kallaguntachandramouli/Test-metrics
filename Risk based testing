@@ -1,0 +1,19 @@
+Risk-based testing is a software testing method that prioritizes testing efforts based on the potential risk ofa feature's failure. Instead of treating all tests equally
+it focuses limited time and resources on the areasthat are most likely to have defects or where failure would have a significant impact on users or thebusiness.
+This approach is especially beneficial for complex projects, tight timelines, or when dealing withhigh-risk systems.
+Key principles:
+1.Risk assessment: The process starts with identifying and assessing risks, such as the likelihood and impactof defects.
+Risks can be based on factors like the criticality of the business function, frequency of use, or ahistory of defects.
+2.Prioritization: Based on the risk assessment, test cases are prioritized. High-risk areas receive morethorough testing, while lower-risk areas may receive less testing.
+3.Resource allocation: Testing resources are strategically allocated to ensure the most critical functions are tested first.
+4.Continuous process: Risk-based testing is not a one-time activity; the test plan and strategy should berevisited and adjusted as the project progresses and new risks emerge.
+Benefits:
+1.Optimizes resources: It ensures that the most critical functionalities are tested thoroughly, especially whentime and budget are limited.
+2.Improves quality: By focusing on critical areas, it helps improve the overall reliability and quality of thesoftware, leading to higher user satisfaction.
+3.Reduces risk of failure: It proactively mitigates risks by focusing on high-impact areas, reducing the chancesof significant financial or data loss due to bugs.
+4.Increases efficiency: It streamlines the testing process by reducing redundant tests and focusing effort .
+
+When To use it:
+1.There is time/resource or budget constraints.  
+2.When a proof of concept is being implemented.
+3.When the team is new to the technology platform or to the application under testing.
