@@ -1,0 +1,19 @@
+Types of Software Testing Metrics:
+1.Process Metrics: A project's characteristics and execution are defined by process metrics. 
+These features are critical to the SDLC process's improvement and maintenance (Software Development Life Cycle).
+
+2.Product Metrics: A product's size, design, performance, quality, and complexity are defined by product metrics. 
+Developers can improve the quality of their software development by utilizing these features.
+
+3.Project Metrics: Project Metrics are used to assess a project's overall quality.
+It is used to estimate aproject's resources and deliverables as well as to determine costs, productivity, and flaws.
+
+1.It is critical to determine the appropriate testing metrics for the process. A few points to keep in mind
+
+2.Before creating the metrics, carefully select your target audiences.
+
+3.Define the aim for which the metrics were created.
+
+4.Prepare measurements based on the project's specific requirements. Assess the financial gain associated with each statistic.
+
+5.Match the measurements to the project lifestyle phase for the best results.
