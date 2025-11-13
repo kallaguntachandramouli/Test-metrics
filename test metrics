@@ -1,0 +1,27 @@
+1.Test metrics are quantifiable measurements used to evaluate, track, and improve the efficiency, quality, andperformance of testing processes.
+They provide objective data for decision-making, help identify areas forimprovement, and are used to report progress to stakeholders. 
+Common examples include defect density,test coverage.
+
+Key  of test metrics:
+1.Quantifiable data: Metrics turn aspects of the testing process into numerical data that can be analyzed andcompared over time or against benchmarks.
+2.Purpose: Their primary goal is to assess the effectiveness of testing activities, track progress, measure thequality of the product, and guide decision-making.
+3.Scope: They are applicable across all stages of the Software Development Life Cycle (SDLC) to ensure adefect-free product.
+4.Reporting: Metrics are used to provide clear, data-driven reports to stakeholders, from the technical team to executive management.
+
+Common types of test metrics:
+1.Defect metrics: Measure the number, severity, and density of defects found in the software.
+2.Defect Density: The number of defects found per unit of code (e.g., per thousand lines of code).
+3.Defect Leakage: The number of defects that were not caught during testing and were released to the enduser.
+4.Test coverage metrics: Measure how much of the software's code or functionality has been tested.
+5.Test Coverage: The percentage of total code that is executed by a test suite.
+6.Test Execution Coverage: The percentage of planned test cases that have been executed.
+7.Test effort metrics: Focus on the resources, time, and cost associated with testing.
+8.Test Execution Time: The total time taken to execute test cases.
+9.Cost Per Test Case/Cost Per Defect: The cost incurred to run a single test case or to fix a single defect. 
+
+EX:- Test Coverage: 85% of code covered by tests
+2. Defect Density: 0.5 defects per KLOC
+3.Test Execution Time: 2 hours
+4. Pass Rate: 95% of tests passed
+5.Defect Leakage: 2 defects escaped to production
+6. Automation Rate: 70% of tests automated
